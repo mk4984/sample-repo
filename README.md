@@ -1,2 +1,3 @@
 # sample-repo
-This is a sample repository for a class demo
+Incredible, I am in VS Code. I am **powerful**. 
+Hello efwffgnwg
